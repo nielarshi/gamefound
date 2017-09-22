@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding : 0;
+	overflow: hidden;
+}
+
+#restart {
+	display : none;
+	position: absolute;
+    left: 48%;
+    top: 50%;
+    padding: 30px;
+    border: 1px solid aliceblue;
+    background: steelblue;
+    border-radius: 20px;
+    color: white;
+    font-weight: 900;
+    cursor: pointer;
+}
